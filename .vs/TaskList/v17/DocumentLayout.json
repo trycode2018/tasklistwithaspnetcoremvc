@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\henri\\OneDrive\\Documentos\\CRONOGRAMA DE ESTUDO\\#2 TER\u00C7A-FEIRA\\TaskList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE967392-561E-41E9-9EC9-39EB3F54F692}|TaskList.csproj|c:\\users\\henri\\onedrive\\documentos\\cronograma de estudo\\#2 ter\u00E7a-feira\\tasklist\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE967392-561E-41E9-9EC9-39EB3F54F692}|TaskList.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE967392-561E-41E9-9EC9-39EB3F54F692}|TaskList.csproj|c:\\users\\henri\\onedrive\\documentos\\cronograma de estudo\\#2 ter\u00E7a-feira\\tasklist\\models\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE967392-561E-41E9-9EC9-39EB3F54F692}|TaskList.csproj|solutionrelative:models\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE967392-561E-41E9-9EC9-39EB3F54F692}|TaskList.csproj|c:\\users\\henri\\onedrive\\documentos\\cronograma de estudo\\#2 ter\u00E7a-feira\\tasklist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE967392-561E-41E9-9EC9-39EB3F54F692}|TaskList.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE967392-561E-41E9-9EC9-39EB3F54F692}|TaskList.csproj|c:\\users\\henri\\onedrive\\documentos\\cronograma de estudo\\#2 ter\u00E7a-feira\\tasklist\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE967392-561E-41E9-9EC9-39EB3F54F692}|TaskList.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE967392-561E-41E9-9EC9-39EB3F54F692}|TaskList.csproj|c:\\users\\henri\\onedrive\\documentos\\cronograma de estudo\\#2 ter\u00E7a-feira\\tasklist\\models\\filtros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE967392-561E-41E9-9EC9-39EB3F54F692}|TaskList.csproj|solutionrelative:models\\filtros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE967392-561E-41E9-9EC9-39EB3F54F692}|TaskList.csproj|c:\\users\\henri\\onedrive\\documentos\\cronograma de estudo\\#2 ter\u00E7a-feira\\tasklist\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CE967392-561E-41E9-9EC9-39EB3F54F692}|TaskList.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE967392-561E-41E9-9EC9-39EB3F54F692}|TaskList.csproj|c:\\users\\henri\\onedrive\\documentos\\cronograma de estudo\\#2 ter\u00E7a-feira\\tasklist\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE967392-561E-41E9-9EC9-39EB3F54F692}|TaskList.csproj|solutionrelative:migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE967392-561E-41E9-9EC9-39EB3F54F692}|TaskList.csproj|c:\\users\\henri\\onedrive\\documentos\\cronograma de estudo\\#2 ter\u00E7a-feira\\tasklist\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE967392-561E-41E9-9EC9-39EB3F54F692}|TaskList.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE967392-561E-41E9-9EC9-39EB3F54F692}|TaskList.csproj|c:\\users\\henri\\onedrive\\documentos\\cronograma de estudo\\#2 ter\u00E7a-feira\\tasklist\\models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE967392-561E-41E9-9EC9-39EB3F54F692}|TaskList.csproj|solutionrelative:models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE967392-561E-41E9-9EC9-39EB3F54F692}|TaskList.csproj|c:\\users\\henri\\onedrive\\documentos\\cronograma de estudo\\#2 ter\u00E7a-feira\\tasklist\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE967392-561E-41E9-9EC9-39EB3F54F692}|TaskList.csproj|solutionrelative:models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE967392-561E-41E9-9EC9-39EB3F54F692}|TaskList.csproj|c:\\users\\henri\\onedrive\\documentos\\cronograma de estudo\\#2 ter\u00E7a-feira\\tasklist\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE967392-561E-41E9-9EC9-39EB3F54F692}|TaskList.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tarefa.cs",
+              "DocumentMoniker": "C:\\Users\\henri\\OneDrive\\Documentos\\CRONOGRAMA DE ESTUDO\\#2 TER\u00C7A-FEIRA\\TaskList\\Models\\Tarefa.cs",
+              "RelativeDocumentMoniker": "Models\\Tarefa.cs",
+              "ToolTip": "C:\\Users\\henri\\OneDrive\\Documentos\\CRONOGRAMA DE ESTUDO\\#2 TER\u00C7A-FEIRA\\TaskList\\Models\\Tarefa.cs",
+              "RelativeToolTip": "Models\\Tarefa.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAowBEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T16:48:47.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\henri\\OneDrive\\Documentos\\CRONOGRAMA DE ESTUDO\\#2 TER\u00C7A-FEIRA\\TaskList\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\henri\\OneDrive\\Documentos\\CRONOGRAMA DE ESTUDO\\#2 TER\u00C7A-FEIRA\\TaskList\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAB8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T15:41:10.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\henri\\OneDrive\\Documentos\\CRONOGRAMA DE ESTUDO\\#2 TER\u00C7A-FEIRA\\TaskList\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\henri\\OneDrive\\Documentos\\CRONOGRAMA DE ESTUDO\\#2 TER\u00C7A-FEIRA\\TaskList\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T13:06:44.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Status.cs",
+              "DocumentMoniker": "C:\\Users\\henri\\OneDrive\\Documentos\\CRONOGRAMA DE ESTUDO\\#2 TER\u00C7A-FEIRA\\TaskList\\Models\\Status.cs",
+              "RelativeDocumentMoniker": "Models\\Status.cs",
+              "ToolTip": "C:\\Users\\henri\\OneDrive\\Documentos\\CRONOGRAMA DE ESTUDO\\#2 TER\u00C7A-FEIRA\\TaskList\\Models\\Status.cs",
+              "RelativeToolTip": "Models\\Status.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T16:47:43.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\henri\\OneDrive\\Documentos\\CRONOGRAMA DE ESTUDO\\#2 TER\u00C7A-FEIRA\\TaskList\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\henri\\OneDrive\\Documentos\\CRONOGRAMA DE ESTUDO\\#2 TER\u00C7A-FEIRA\\TaskList\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T13:51:06.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Filtros.cs",
+              "DocumentMoniker": "C:\\Users\\henri\\OneDrive\\Documentos\\CRONOGRAMA DE ESTUDO\\#2 TER\u00C7A-FEIRA\\TaskList\\Models\\Filtros.cs",
+              "RelativeDocumentMoniker": "Models\\Filtros.cs",
+              "ToolTip": "C:\\Users\\henri\\OneDrive\\Documentos\\CRONOGRAMA DE ESTUDO\\#2 TER\u00C7A-FEIRA\\TaskList\\Models\\Filtros.cs",
+              "RelativeToolTip": "Models\\Filtros.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAA0wCAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T12:47:37.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\henri\\OneDrive\\Documentos\\CRONOGRAMA DE ESTUDO\\#2 TER\u00C7A-FEIRA\\TaskList\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\henri\\OneDrive\\Documentos\\CRONOGRAMA DE ESTUDO\\#2 TER\u00C7A-FEIRA\\TaskList\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAswAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T17:04:44.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\henri\\OneDrive\\Documentos\\CRONOGRAMA DE ESTUDO\\#2 TER\u00C7A-FEIRA\\TaskList\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\henri\\OneDrive\\Documentos\\CRONOGRAMA DE ESTUDO\\#2 TER\u00C7A-FEIRA\\TaskList\\Models\\Categoria.cs",
+              "RelativeToolTip": "Models\\Categoria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T16:46:51.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\henri\\OneDrive\\Documentos\\CRONOGRAMA DE ESTUDO\\#2 TER\u00C7A-FEIRA\\TaskList\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\henri\\OneDrive\\Documentos\\CRONOGRAMA DE ESTUDO\\#2 TER\u00C7A-FEIRA\\TaskList\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-12T16:39:01.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\henri\\OneDrive\\Documentos\\CRONOGRAMA DE ESTUDO\\#2 TER\u00C7A-FEIRA\\TaskList\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\henri\\OneDrive\\Documentos\\CRONOGRAMA DE ESTUDO\\#2 TER\u00C7A-FEIRA\\TaskList\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA1wBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T16:09:43.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\henri\\OneDrive\\Documentos\\CRONOGRAMA DE ESTUDO\\#2 TER\u00C7A-FEIRA\\TaskList\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\henri\\OneDrive\\Documentos\\CRONOGRAMA DE ESTUDO\\#2 TER\u00C7A-FEIRA\\TaskList\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T15:50:31.59Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
